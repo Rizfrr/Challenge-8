@@ -1,0 +1,5 @@
+Inisialisasi ESLINT
+./node_modules/.bin/eslint --init
+
+Inisialisasi Jest
+./node_modules/.bin/jest --init
